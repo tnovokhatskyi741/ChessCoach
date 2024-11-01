@@ -1,0 +1,5 @@
+python-chess
+openai
+pyttsx3
+cryptography
+black
